@@ -17,6 +17,7 @@ body {
     font-family: "Nunito", sans-serif;
     text-align: center;
     background: rgba(235, 235, 235, 0.9);
+    background-color: lightgrey;
 }
 
 header {
@@ -144,6 +145,7 @@ header h1 {
     border-radius: 0.25em;
     border: 1px solid rgba(100, 100, 100, 0.3);
     transition: .4s ease-out;
+    background-color: rgb(190, 138, 97);
 }
 
 .modal-close-btn {
@@ -169,7 +171,8 @@ header h1 {
 }
 
 .modal-text {
-    color: rgba(50, 50, 50, 0.7);
+    /*color: rgba(50, 50, 50, 0.7);*/
+    color: rgba(39, 39, 39, 0.616);
     margin: 10px;
 }
 
@@ -191,6 +194,7 @@ header h1 {
     background: rgba(255, 255, 255, 1);
     border-radius: 0.25em;
     border: 1px solid rgba(100, 100, 100, 0.3);
+    background-color: rgb(190, 138, 97);
 }
 
 

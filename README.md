@@ -4,6 +4,26 @@
 
 My goal is to receive Exceeds Expectations on this project
 
+## Customizations
+
+CSS:
+
+    - Changed to body background color
+    - Changed the modal background color
+
+JS Search:
+
+    - Added keyup search function to be able to filter through employees
+    - With this the way the employees are filtered is by changing the background color
+    of their employee card to crimson, and when deleting the keys out of input field 
+    this changes it back to the normal color
+
+API:
+
+    - I added a template literal so that you can request 12, 30, or even up to the 5000 max of the API request
+    in the string for the API call. I plan to come back to this project and incoroporate the second project and 
+    add page filtering to it.
+
 ## API Usage
 
 ### Meets Expectations (Exceeds Expectations N/A)
