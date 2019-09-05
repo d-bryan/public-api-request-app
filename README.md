@@ -2,7 +2,7 @@
 
 ## Grade Expectations
 
-My goal is to receive Exceeds Expectations on this project
+UPDATE - Grade Acheived was exceeds expectations
 
 ## Customizations
 
